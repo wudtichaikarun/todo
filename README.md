@@ -1,5 +1,12 @@
 # Todo
 
+- [x] Design Patterns In Javascript
+- [x] CSS, SCSS
+- [x] Wordpress
+- [x] Vim
+- [x] Functional Programming
+- [x] React Hook
+- [x] RabbitMQ
 - [x] Jaeger
 - [x] Graylog
 - [x] Netflix Conductor
@@ -12,6 +19,35 @@
 - [ ] Typescript In Depth
 - [ ] Golang
 - [ ] Kubernetes
+- [ ] API Gateway
+
+---
+
+## Design Patterns In Javascript
+
+---
+
+## CSS, SCSS
+
+---
+
+## Wordpress
+
+---
+
+## Vim
+
+---
+
+## Functional Programming
+
+---
+
+## React Hook
+
+---
+
+## RabbitMQ
 
 ---
 
@@ -81,3 +117,7 @@
 ---
 
 ## Kubernetes
+
+---
+
+## API Gateway

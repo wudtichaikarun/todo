@@ -1,14 +1,29 @@
 # Todo
 
+- [x] Jaeger
+- [x] Graylog
+- [x] Netflix Conductor
 - [x] Kafka
 - [x] Elastic Search
+- [x] Graphqlcompose
 - [ ] UI Drag And Drop (React)
-- [ ] Graphqlcompose (subscription)
 - [ ] Unit Test
 - [ ] Routing Algorithms
 - [ ] Typescript In Depth
 - [ ] Golang
 - [ ] Kubernetes
+
+---
+
+## Jaeger
+
+---
+
+## Graylog
+
+---
+
+## Netflix Conductor
 
 ---
 
@@ -29,7 +44,19 @@
 
 ---
 
-## Graphqlcompose (subscription)
+## Graphqlcompose
+
+<b>Todo</b>
+
+- [x] creat types
+- [x] resolvers
+- [x] relation types
+- [x] generate schema
+- [x] create type use composeWithJson
+- [x] file upload
+- [x] elasticSearch
+- [ ] subscription
+- [ ] permission
 
 ---
 

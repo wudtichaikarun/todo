@@ -37,10 +37,10 @@ $ kubectl exec -it -n staging <podNameWithHas> -- /bin/bash
 apiVersion: v1
 kind: Secret
 metadata:
-name: group-namme
+    name: group-namme
 type: Opaque
 data:
-password1:YWRtaW4=
+    password1:YWRtaW4=
 
 ```
 

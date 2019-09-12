@@ -98,13 +98,23 @@
 
 ## UI Drag And Drop (React)
 
----
+<b>Bookmarks</b>
+
+- [Udemy React skills with Test Driven Development](https://www.udemy.com/course/react-tdd/learn/lecture/7958318#overview)
+
+<b>Todo Front-End</b>
+<b>Todo Back-End</b>
 
 ## Unit Test
 
 ---
 
 ## Routing Algorithms
+
+<b>Bookmarks</b>
+
+- [classification of Routing Algorithms](https://www.geeksforgeeks.org/classification-of-routing-algorithms/)
+- [OptaPlanner](https://www.optaplanner.org/)
 
 ---
 

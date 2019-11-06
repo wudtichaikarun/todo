@@ -77,3 +77,13 @@ script path = scripts
 ```
 $ helm upgrade -i ingress-api-staging helm-ingress  -f helm-ingress/values-api-staging.yaml --namespace=staging
 ```
+
+> use local server instand of stagng server
+
+- install telepresence
+- start project
+- run telepresence command in terminal
+
+```
+> telepresence --namespace staging --swap-deployment <deployment-service-name>
+```

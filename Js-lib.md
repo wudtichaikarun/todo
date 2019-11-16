@@ -16,3 +16,4 @@
 ![uppy](./images/js-lib/13.jpg)
 ![uppy](./images/js-lib/14.jpg)
 ![uppy](./images/js-lib/15.jpg)
+![uppy](./images/js-lib/16.jpg)

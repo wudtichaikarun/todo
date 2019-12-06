@@ -87,3 +87,14 @@ $ helm upgrade -i ingress-api-staging helm-ingress  -f helm-ingress/values-api-s
 ```
 > telepresence --namespace staging --swap-deployment <deployment-service-name>
 ```
+
+> generate vpn kube
+
+1. go to [git-lab](https://gitlab.com/sendit-th) search ovpn-k8s
+2. clone project and open project ovpn-k8s in vscode
+3. follow process in README.MD
+   - open docker
+   - open gen-ovpn.sh
+   - change CLIENTNAME to your name
+   - run ./gen-ovpn.sh in terminal
+   - pass phrase is "senditdev" without quote
